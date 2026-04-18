@@ -1,0 +1,7 @@
+{
+  "app_name": "ClientPortal",
+  "version": "2.1",
+  "debug": false,
+  "session_timeout": 3600,
+  "allowed_origins": []
+}
